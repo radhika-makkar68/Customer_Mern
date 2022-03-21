@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "MS Dhoni",
+      "username": "dhoni",
+      "email": "msdhoni@gmail.com",
+      "phone": "4563214530",
+      "image": "",
+      "id": 1,
+      "gender": "M",
+      "address": "Raipur"
+    },
+    {
+      "name": "Mohd Shami",
+      "username": "mohdshami",
+      "email": "shami@gmail.com",
+      "phone": "7896547896",
+      "image": "",
+      "id": 4,
+      "gender": "M",
+      "address": "Delhi"
+    },
+    {
+      "name": "KL Rahul",
+      "username": "klrahul",
+      "email": "rahul@gmail.com",
+      "phone": "7458965874",
+      "image": "",
+      "id": 5,
+      "gender": "M",
+      "address": "Delhi"
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "username": "dhawansikhar",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "image": "",
+      "id": 6,
+      "gender": "M",
+      "address": "Mumbai"
+    }
+  ]
+}
